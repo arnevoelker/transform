@@ -2,10 +2,7 @@
 
 /transform helps you transform your long-form content into platform-optimized promotional materials using a professional AI workflow. Based on the methodology presented in "Promoting Content with AI", this repository provides a complete implementation of the Extract-Chunk-Guide framework.
 
-Here's how NotebookLM wraps it up:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LyVitMpLzqE?si=WzHQ2SAFbrYzA9Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Here's how NotebookLM wraps it up: [![» Play the video](https://www.youtube.com/watch?v=LyVitMpLzqE)
 [![Promoting Content with AI](https://img.youtube.com/vi/LyVitMpLzqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=LyVitMpLzqE)
 
 ## Problem Statement
